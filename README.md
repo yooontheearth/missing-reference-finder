@@ -1,7 +1,7 @@
 # missing-reference-finder
 The tool to find missing references for dot net applications.
 
-To see the detailed explanation,  
+To see the detailed explanation in Japanese,  
 .NETプログラム実行時にDLLの参照エラーになったときようのツール  
 http://my-clip-devdiary.blogspot.jp/2015/02/netdll.html
 
